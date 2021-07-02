@@ -41,7 +41,7 @@
   });
 
   let method: Method = 'GET';
-  let url = 'https://jsonplaceholder.typicode.com/todos/1';
+  let url = '';
 
   const handleSubmit = async () => {
     let data;
