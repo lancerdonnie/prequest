@@ -53,7 +53,7 @@
     }
     axios({
       method,
-      url,
+      url: `https://aproxyserver.herokuapp.com/${url}`,
       params: $params.reduce((a, e) => {
         a[e.key] = e.value;
         return a;

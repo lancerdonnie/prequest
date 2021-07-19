@@ -1,6 +1,7 @@
 # Prequest
 
 A REST request tool built with svelte. Inspired by postman
+It makes use of my [Proxy Server](https://aproxyserver.herokuapp.com/) forked from [cors-anywhere](https://github.com/Rob--W/cors-anywhere)
 
 ## Tech Stack
 
